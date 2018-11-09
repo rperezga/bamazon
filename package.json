@@ -1,0 +1,23 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "Bamazon store CLI",
+  "main": "bamazonCustomer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rperezga/bamazon.git"
+  },
+  "author": "Roger Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rperezga/bamazon/issues"
+  },
+  "homepage": "https://github.com/rperezga/bamazon#readme",
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "mysql": "^2.16.0"
+  }
+}
